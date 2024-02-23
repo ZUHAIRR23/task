@@ -21,6 +21,7 @@
                     <td>Action</td>
                 </tr>
             </th>
+
             <tbody>
                 @foreach ($vehicle as $row)
                     <tr>
